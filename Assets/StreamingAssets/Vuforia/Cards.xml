@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="warrok" size="20.000000 27.997204" />
+    <ImageTarget name="uriel" size="20.000000 27.997204" />
+    <ImageTarget name="nordstorm" size="20.000000 27.997204" />
+    <ImageTarget name="nightshade" size="20.000000 27.997204" />
+    <ImageTarget name="lusth" size="20.000000 27.997204" />
+    <ImageTarget name="konstantinov" size="20.000000 27.997204" />
+    <ImageTarget name="kinatori" size="20.000000 27.997204" />
+    <ImageTarget name="kachujin" size="20.000000 27.997204" />
+    <ImageTarget name="jinx" size="20.000000 27.997204" />
+    <ImageTarget name="heraklios" size="20.000000 27.997204" />
+    <ImageTarget name="ganfaul" size="20.000000 27.997204" />
+    <ImageTarget name="erica" size="20.000000 27.997204" />
+    <ImageTarget name="back" size="20.000000 27.997204" />
+    <ImageTarget name="avelange" size="20.000000 27.997204" />
+    <ImageTarget name="annihilous" size="20.000000 27.997204" />
+  </Tracking>
+</QCARConfig>
